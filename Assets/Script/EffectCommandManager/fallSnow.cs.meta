@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 60eb3a6183e1d4f4ebb1cab80491c38d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Cristal: {fileID: 100000, guid: eb8b4c921059fed44b3cf504cbe3a699, type: 2}
+  - MagicCircle: {fileID: 100000, guid: f4fbd3fd56738604da91fa66424891d1, type: 2}
+  - Sword: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

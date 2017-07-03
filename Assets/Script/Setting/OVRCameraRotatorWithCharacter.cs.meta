@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 5cbc852179dfba14ea17a2f5fee712c4
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cameraPosition: {fileID: 400008, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

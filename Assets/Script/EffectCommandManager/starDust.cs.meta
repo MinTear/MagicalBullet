@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b62a134e0152d7d47973ac80e0500760
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Star: {fileID: 100004, guid: 7f60ca2dae3657f4d90c8dd437640511, type: 2}
+  - Mahoujin: {fileID: 100000, guid: 6bee75bb8b261ae4b8868f75f76a6e8d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

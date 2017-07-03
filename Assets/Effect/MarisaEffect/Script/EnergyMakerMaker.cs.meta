@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ea928d4bfbdd1414d9c778bb136ea758
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - EnergyMaker: {fileID: 100000, guid: 2bab932ed0ef98d4ca2b5dcdca2792e9, type: 2}
+  - EnergyShot: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

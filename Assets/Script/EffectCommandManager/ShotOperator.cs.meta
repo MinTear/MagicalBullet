@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: a29a5143746ef4547a7f6abfadc2a29b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - RazerBeam: {fileID: 100002, guid: 24e5cadbad3539c43b533fbb31263b4d, type: 2}
+  - Attack: {fileID: 100004, guid: 24e5cadbad3539c43b533fbb31263b4d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

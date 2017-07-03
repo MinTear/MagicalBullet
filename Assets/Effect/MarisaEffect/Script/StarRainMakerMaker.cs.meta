@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 8c978fed6c828054287b660cb522572e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - StarRainMaker: {fileID: 100000, guid: 97a72aae70839c54d9e2ea28758fe47c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

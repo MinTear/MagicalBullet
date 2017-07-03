@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 946d0071b172d72499aed0ff7d7c9e8d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - OVRCamera: {fileID: 400008, guid: a797a53151b0ec940abc9c782a9ead4d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

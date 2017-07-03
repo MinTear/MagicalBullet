@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: e28985628a7f64947b982f10dc9a98e0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Explosion: {fileID: 100008, guid: c466276509f8b40a59f02d115254fc25, type: 2}
+  - Snow_Explosion: {fileID: 100008, guid: 0bf1f689188e94176a7e4a03e8df08c7, type: 2}
+  - SmallExplosion: {fileID: 100010, guid: 93f2c95ad8a9048aba5958f95784f8f5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

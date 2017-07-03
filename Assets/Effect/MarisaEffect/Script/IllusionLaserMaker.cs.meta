@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 22bfc859e7292c842a45150556659477
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - IllusionLaser: {fileID: 100006, guid: fc4d580805e865c409c5245a729bf76d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

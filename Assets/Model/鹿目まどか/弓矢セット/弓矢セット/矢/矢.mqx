@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MetasequoiaDocument>
+    <IncludedBy>矢.mqo</IncludedBy>
+    <Plugin.BD1224DB.0000002C name="ボーン">
+        <XSFormat version="0.2" app="Metasequoia">
+            <XSConfig>
+                <XSFileConfig limitFPS="0" FPS="60.00" step="0" freeze="0" fastcalc="0" adjustwgt="0" debugdraw="0" mode="0" multitrack="0" />
+                <XSSceneConfig col_scn="8375551" />
+                <XSBoneConfig col_def="6737049" col_sel="16757299" col_hot="16776960" col_cst="15040434" col_phy="8362444" />
+            </XSConfig>
+            <XSAnimationContainer>
+                <XSAnimationSet name="motion_01" interpolate="21">
+                    <XSAnimation frame="0">
+                        <XSAnimationKey name="矢移動" />
+                        <XSAnimationKey name="矢">
+                            <q>-0.000000 0.003005 0.000000 0.999996</q>
+                        </XSAnimationKey>
+                        <XSAnimationState name="矢" visible="1" fvalue="0.000000" />
+                        <XSAnimationState name="矢1" visible="1" fvalue="0.000000" />
+                        <XSAnimationState name="矢2" visible="1" fvalue="0.000000" />
+                        <XSAnimationState name="矢3" visible="1" fvalue="0.000000" />
+                        <XSAnimationState name="矢4" visible="1" fvalue="0.000000" />
+                        <XSAnimationState name="矢5" visible="1" fvalue="0.000000" />
+                        <XSAnimationState name="矢6" visible="1" fvalue="0.000000" />
+                        <XSAnimationState name="矢7" visible="1" fvalue="0.000000" />
+                        <XSAnimationState name="矢8" visible="1" fvalue="0.000000" />
+                        <XSAnimationState name="矢9" visible="1" fvalue="0.000000" />
+                        <XSAnimationState name="矢10" visible="1" fvalue="0.000000" />
+                        <XSAnimationState name="矢11" visible="1" fvalue="0.000000" />
+                        <XSAnimationState name="矢12" visible="1" fvalue="0.000000" />
+                    </XSAnimation>
+                </XSAnimationSet>
+            </XSAnimationContainer>
+        </XSFormat>
+    </Plugin.BD1224DB.0000002C>
+</MetasequoiaDocument>

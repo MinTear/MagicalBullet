@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 3d3f76fe400ba90448fe5b4df681e957
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - DamageLight: {fileID: 100008, guid: c466276509f8b40a59f02d115254fc25, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

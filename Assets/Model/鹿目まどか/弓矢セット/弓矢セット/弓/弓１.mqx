@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MetasequoiaDocument>
+    <IncludedBy>弓１.mqo</IncludedBy>
+    <Plugin.BD1224DB.0000002C name="ボーン">
+        <XSFormat version="0.2" app="Metasequoia">
+            <XSConfig>
+                <XSFileConfig limitFPS="0" FPS="60.00" step="0" freeze="0" fastcalc="0" adjustwgt="0" debugdraw="0" mode="0" multitrack="0" />
+                <XSSceneConfig col_scn="8375551" />
+                <XSBoneConfig col_def="6737049" col_sel="16757299" col_hot="16776960" col_cst="15040434" col_phy="8362444" />
+            </XSConfig>
+            <XSAnimationContainer>
+                <XSAnimationSet name="motion_01" interpolate="21">
+                    <XSAnimation frame="0">
+                        <XSAnimationKey name="弓移動" />
+                        <XSAnimationKey name="矢" />
+                        <XSAnimationKey name="弓中央" />
+                        <XSAnimationKey name="弦" />
+                        <XSAnimationKey name="弓曲げ_L_" />
+                        <XSAnimationKey name="弓曲げ２_L_" />
+                        <XSAnimationKey name="弓曲げ_R_" />
+                        <XSAnimationKey name="弓曲げ２_R_" />
+                        <XSAnimationState name="bow" visible="1" fvalue="0.000000" />
+                        <XSAnimationState name="弦" visible="1" fvalue="0.000000" />
+                        <XSAnimationState name="矢" visible="1" fvalue="0.000000" />
+                    </XSAnimation>
+                </XSAnimationSet>
+            </XSAnimationContainer>
+        </XSFormat>
+    </Plugin.BD1224DB.0000002C>
+</MetasequoiaDocument>
