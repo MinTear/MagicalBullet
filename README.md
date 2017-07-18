@@ -1,7 +1,7 @@
 # MagicalBullet
 
 UnityChanを使用したシューティングゲームです。
-Unity4対応で、Unity5では動きません。
+Unity4対応で、Unity5未対応です。
 
 ・仕様
 ☆キャラクター選択
