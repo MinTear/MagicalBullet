@@ -2,6 +2,7 @@
 
 UnityChanを使用したシューティングゲームです。
 Unity4対応で、Unity5未対応です。
+Title.unityからスタートします。
 
 ・仕様
 ☆キャラクター選択
